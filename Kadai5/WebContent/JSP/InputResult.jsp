@@ -45,7 +45,7 @@
 			<div align ="center">
 <html:link forward ="fail">入力画面に戻る</html:link>
 </div>
-<%@include file="/JSP/common/footer.jsp" %>
+
 
 </body>
 </html:html>

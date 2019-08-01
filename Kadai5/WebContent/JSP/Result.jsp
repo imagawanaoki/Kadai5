@@ -51,7 +51,6 @@
 
 					<html:form action ="/PathAll" method = "get"><html:hidden property = "today" value = "${today}" />
 	<input type = "submit"  value = "本日の占い結果と全体の占い結果の割合を表示する"/></html:form></div>
-<%@include file="/JSP/common/footer.jsp" %>
 
 </body>
 </html:html>

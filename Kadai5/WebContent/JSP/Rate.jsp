@@ -34,7 +34,7 @@
 
 
 
-<!-- 本日行った占い結果の割合表示 -->
+<!-- 本日行った占い結果の割合表示-->
 <table class = "contain">
 
 <caption class="font"> ＜本日の運勢結果の割合＞</caption>
@@ -51,9 +51,10 @@
 
 <!-- 誕生日入力画面に遷移 -->
 <div align = "center">
+<div class ="padding">
 <html:link forward ="fail">入力画面に戻る</html:link>
 </div>
-
+</div>
 </body>
 
 </html:html>

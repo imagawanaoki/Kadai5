@@ -13,8 +13,7 @@
 <LINK rel="stylesheet" href="<%=request.getContextPath()%>/css/style.css" type="text/css">
 <title>誕生日入力画面</title>
 </head>
-<body>
-
+<body background="torii.jpg">
 	<!-- ヘッダーの表示 -->
 <%@include file="/JSP/common/header.jsp" %>
 
@@ -30,7 +29,6 @@
 	<input type = "submit" value = "おみくじを引く">
    </html:form>
  <br>
-<%@include file="/JSP/common/footer.jsp" %>
 
 </body>
 </html:html>
